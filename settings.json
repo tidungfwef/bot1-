@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "anhemcaykhesmp.aternos.me"
+    "ip": "anhemcaykhesmp.aternos.me",
     "port": ,
     "version": "",
     "try-creative": false
