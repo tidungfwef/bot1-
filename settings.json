@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "anhemcaykhesmp.aternos.me",
-    "port": ,
-    "version": "",
+    "port":11280 ,
+    "version": "1.21.",
     "try-creative": false
   },
   "position": {
